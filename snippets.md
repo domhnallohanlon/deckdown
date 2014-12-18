@@ -2,7 +2,7 @@ Snippets
 ========
 
 #### HTML
-````
+```html
     <html>
         <head>
             <title></title>
@@ -11,7 +11,7 @@ Snippets
             <h1></h1>
         </body>
     </html>
-````
+```
 
 #### CSS
 
@@ -27,6 +27,8 @@ Snippets
 
 #### Javascript
 
+```javascript
     function popUp(){
         document.alert("This is a pop up");
     }
+```
