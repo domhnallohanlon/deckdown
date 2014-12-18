@@ -2,7 +2,7 @@ Snippets
 ========
 
 #### HTML
-```html
+```HTML
     <html>
         <head>
             <title></title>
@@ -15,15 +15,16 @@ Snippets
 
 #### CSS
 
-    h1{
-        font: serif;
-        text: #a9a9a9;
-    }
+```CSS
+h1{
+    font: serif;
+    text: #a9a9a9;
+}
 
-    a{
-        text-decoration: none
-    }
-
+a{
+    text-decoration: none
+}
+```
 
 #### Javascript
 
