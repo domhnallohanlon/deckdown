@@ -1,5 +1,5 @@
-How to Make an App
-![logo][logo]
+Android Academey
+![logo][/img/ardLogo.png]
 =================
 ### Contents
 
