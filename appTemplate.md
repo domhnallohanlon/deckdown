@@ -1,5 +1,5 @@
 How to Make an App
-![logo][logo]
+![logo](logo)
 =================
 ### Contents
 

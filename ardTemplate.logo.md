@@ -1,5 +1,5 @@
 Android Academey
-![logo][/img/ardLogo.png]
+![logo](/img/ardLogo.png)
 =================
 ### Contents
 
