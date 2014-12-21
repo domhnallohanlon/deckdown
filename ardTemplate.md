@@ -1,5 +1,5 @@
-Android Academey
-![logo](/img/ardLogo.png)
+Android Academy
+![logo](https://raw.githubusercontent.com/domhnallohanlon/deckdown/master/img/ardLogo.png)
 =================
 ### Contents
 

@@ -1,5 +1,5 @@
 How to Make an App
-![logo](logo)
+![logo](https://raw.githubusercontent.com/domhnallohanlon/deckdown/master/img/appLogo.png)
 =================
 ### Contents
 
